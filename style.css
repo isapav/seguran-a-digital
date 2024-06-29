@@ -1,9 +1,9 @@
 :root{
     --branco: white;
-    --cor-de-fundo: #00162E;
-    --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
-    --borda: #0075FF;
+    --cor-de-fundo: #c7d3b4;
+    --fundo-senha: #971285;
+    --fundo-texto: #c40913;
+    --borda: #19be21;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
     *{
@@ -104,6 +104,14 @@ body{
 .fraca{
     width: 25%;
     background-color: #E71B32; 
+}
+.media{
+    background-color: #FAF408;
+    width: 50%;
+}
+.forte{
+    background-color: #00FF85;
+    width: 100%;
 }
 
 
